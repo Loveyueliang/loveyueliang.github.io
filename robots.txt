@@ -1,0 +1,11 @@
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://blog.52sifang.cn/baidusitemap.xml
