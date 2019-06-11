@@ -1,0 +1,179 @@
+Serving HTTP on 0.0.0.0 port 44 (http://0.0.0.0:44/) ...
+
+Keyboard interrupt received, exiting.
+Serving HTTP on 0.0.0.0 port 44 (http://0.0.0.0:44/) ...
+
+Keyboard interrupt received, exiting.
+222.88.236.167 - - [05/May/2019 16:31:57] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:57] "GET /css/index.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:57] "GET /css/swiper2.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:57] "GET /css/swiper.min.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:57] "GET /css/web.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:57] "GET /img/carousel3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:58] "GET /img/dypic1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:58] "GET /img/carousel2.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:31:59] "GET /img/carousel5.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:02] "GET /img/carousel6.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:03] "GET /img/carousel4.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:06] "GET /js/swiper.min.js HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:06] "GET /img/121-bg.jpg HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:06] "GET /img/camera.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:06] "GET /img/homeico000.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:06] "GET /img/fdj.png HTTP/1.1" 200 -
+180.163.220.68 - - [05/May/2019 16:32:07] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:07] "GET /img/wensha.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:07] "GET /img/dypic3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:08] "GET /img/plugins.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:08] "GET /img/dypic2.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:08] "GET /img/phb03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:08] "GET /img/phb01.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:11] "GET /img/phb02.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:11] "GET /img/tj7.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:11] "GET /img/tj5.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:11] "GET /img/tj6.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:12] "GET /img/tj3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:12] "GET /img/tj2.png HTTP/1.1" 200 -
+180.163.220.68 - - [05/May/2019 16:32:13] "GET /css/index.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:13] "GET /img/tj4.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:13] "GET /img/tj1.png HTTP/1.1" 200 -
+180.163.220.3 - - [05/May/2019 16:32:13] "GET /css/swiper.min.css HTTP/1.1" 200 -
+180.163.220.3 - - [05/May/2019 16:32:13] "GET /css/swiper2.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:13] "GET /img/pl01.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:13] "GET /img/dypic5.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:13] "GET /img/dypic6.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:13] "GET /img/dypic4.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:14] "GET /img/pl02.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:14] "GET /img/pl03.png HTTP/1.1" 200 -
+180.163.220.3 - - [05/May/2019 16:32:14] "GET /js/swiper.min.js HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:14] "GET /img/pl04.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:14] "GET /img/ad.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:15] "GET /img/carousel1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:17] "GET /img/lm02.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:17] "GET /img/lm03.png HTTP/1.1" 200 -
+180.163.220.3 - - [05/May/2019 16:32:17] "GET /css/web.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:17] "GET /img/lm05.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:17] "GET /img/lm04.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:18] "GET /img/lm06.png HTTP/1.1" 200 -
+180.163.220.3 - - [05/May/2019 16:32:18] "GET /img/ad.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:18] "GET /img/lm07.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:18] "GET /img/lm01.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:18] "GET /img/lm08.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:18] "GET /img/code.png HTTP/1.1" 200 -
+180.163.220.68 - - [05/May/2019 16:32:18] "GET /img/carousel1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:19] code 404, message File not found
+222.88.236.167 - - [05/May/2019 16:32:19] "GET /favicon.ico HTTP/1.1" 404 -
+222.88.236.167 - - [05/May/2019 16:32:38] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:39] "GET /signin.html HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:39] "GET /css/1-home.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:39] "GET /css/signup.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:39] "GET /img/banner_sign.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:40] "GET /img/bg_1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:40] "GET /img/bg_3_03_03_03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:40] "GET /img/bg_2_03_03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:40] "GET /img/bg_4_03_03_03_03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:48] "GET /app.html HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:32:48] "GET /img/app01.png HTTP/1.1" 200 -
+42.236.10.93 - - [05/May/2019 16:33:11] "GET /app.html HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:33:11] "GET / HTTP/1.1" 200 -
+42.236.10.75 - - [05/May/2019 16:33:31] "GET /css/1-home.css HTTP/1.1" 200 -
+42.236.10.93 - - [05/May/2019 16:33:31] "GET /img/app01.png HTTP/1.1" 200 -
+----------------------------------------
+Exception happened during processing of request from ('42.236.10.93', 30333)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/local/lib/python3.6/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/local/lib/python3.6/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.6/socketserver.py", line 696, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.6/http/server.py", line 418, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python3.6/http/server.py", line 406, in handle_one_request
+    method()
+  File "/usr/local/lib/python3.6/http/server.py", line 639, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/local/lib/python3.6/http/server.py", line 800, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/local/lib/python3.6/shutil.py", line 82, in copyfileobj
+    fdst.write(buf)
+  File "/usr/local/lib/python3.6/socketserver.py", line 775, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+42.236.10.78 - - [05/May/2019 16:33:31] "GET /css/signup.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:33:31] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:33:31] "GET /css/web.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:34:13] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:34:33] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /css/swiper.min.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /css/index.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /css/web.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /css/swiper2.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /js/swiper.min.js HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /img/ad.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:13] "GET /img/carousel1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:15] "GET /img/carousel2.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:16] "GET /img/carousel3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:18] "GET /img/carousel4.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:19] "GET /img/homeico000.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:19] "GET /img/wensha.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:19] "GET /img/121-bg.jpg HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:19] "GET /img/dypic3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:19] "GET /img/dypic2.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/plugins.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/camera.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/fdj.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/dypic1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/dypic6.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/dypic4.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:20] "GET /img/phb01.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:21] "GET /img/phb02.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:23] "GET /img/dypic5.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:23] "GET /img/phb03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj6.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj2.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj7.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj4.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/tj5.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/pl01.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:24] "GET /img/pl02.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:25] "GET /img/carousel5.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:26] "GET /img/carousel6.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:28] "GET /img/pl03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:28] "GET /img/pl04.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:28] "GET /img/lm02.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:29] "GET /img/lm03.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:29] "GET /img/lm04.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:29] "GET /img/lm05.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:29] "GET /img/lm06.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:29] "GET /img/lm07.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:29] "GET /img/lm08.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:30] "GET /img/lm01.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:30] "GET /img/code.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:30] code 404, message File not found
+222.88.236.167 - - [05/May/2019 16:35:30] "GET /favicon.ico HTTP/1.1" 404 -
+222.88.236.167 - - [05/May/2019 16:35:39] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:35:40] "GET /css/web.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:36:26] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:36:50] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:36:55] code 404, message File not found
+222.88.236.167 - - [05/May/2019 16:36:55] "GET /js/swiper.min.js.map HTTP/1.1" 404 -
+222.88.236.167 - - [05/May/2019 16:37:21] code 404, message File not found
+222.88.236.167 - - [05/May/2019 16:37:21] "GET /js/swiper.min.js.map HTTP/1.1" 404 -
+222.88.236.167 - - [05/May/2019 16:37:21] code 404, message File not found
+222.88.236.167 - - [05/May/2019 16:37:21] "GET /js/swiper.min.js.map HTTP/1.1" 404 -
+222.88.236.167 - - [05/May/2019 16:37:35] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:35] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:35] "GET /css/web.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:46] "GET / HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:55] "GET /carouselwarp.html HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:55] "GET /css/carouselwar.css HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:55] "GET /img/picC1.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:57] "GET /img/picC2.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:58] "GET /img/picC3.png HTTP/1.1" 200 -
+222.88.236.167 - - [05/May/2019 16:37:58] "GET /img/picC4.png HTTP/1.1" 200 -

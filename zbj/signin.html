@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ch">
+<head>
+    <meta charset="UTF-8">
+    <title>登陆</title>
+    <link rel="stylesheet" href="css/1-home.css">
+    <link rel="stylesheet" href="css/signup.css">
+    <script src="js/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+<div class="topBJ">
+    <ul class="top">
+        <li>
+            <a href="index.html">返回首页</a>
+        </li>
+        <li class="mouse"><a href="signin.html">登录</a></li>
+        <li class="mouse">注册</li>
+    </ul>
+</div>
+<div class="navBJ">
+    <ul class="nav">
+        <li><p class="navLogo" >旧时光电影</p></li>
+    </ul>
+</div>
+
+
+<img src="img/banner_sign.png" alt="" class="signImg">
+
+<div class="inputBox">
+    <div class="left">
+        <form  id="formSgin"  action="##" method="post">
+            <p>登录</p>
+            <input type="text" value="Your Email..." class="shurukuang" id="sginEm" name="sginEm">
+            <input type="password" value="Your Passworld" class="shurukuang" id="sginPW" name="sginPW">
+            <div class="tijiaobox" style=" padding: 0;"><input type="button" value="点击登录" onclick="login()"><span>忘记密码</span></div>
+        </form>
+
+    </div>
+    <div class="right">
+        <form id="formRester" action="##" method="get">
+            <p>注册</p>
+            <input type="text" value="Your Email..." class="shurukuang" id="reEM" name="reEM">
+            <input type="text" value="Your Passworld" class="shurukuang" id="rePW" name="rePW">
+            <input type="text" value="Confirm password..." class="shurukuang">
+            <input type="checkbox" value="" >&nbsp&nbsp&nbsp&nbsp<span>已阅读注册条件</span>
+            <div class="chuangjian" style=" padding: 0;"><input type="button"  onclick="register()" value="同意创建"></div>
+        </form>
+
+    </div>
+</div>
+
+
+<div class="bottomBox" style="background:#f9f9f9">
+    <div class="anniubox">
+        <div class="leftanniu">
+            <p class="line_one">全部免费</p>
+            <p class="line_two">Free-For-All</p>
+        </div>
+        <div class="rightanniu">
+            <img src="img/bg_1.png" alt="" class="fb">
+            <img src="img/bg_2_03_03.png" alt="" class="tw">
+            <img src="img/bg_3_03_03_03.png" alt="" class="ins">
+            <img src="img/bg_4_03_03_03_03.png" alt="" class="c">
+        </div>
+    </div>
+</div>
+
+<div class="topBJ">
+    <ul class="top">
+        <li>Currency:RMB</li>
+        <li class="mouse">Desgin by zbj</li>
+    </ul>
+</div>
+
+
+<script type="text/javascript">
+    function login() {
+        new FormData
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "http://47.101.198.54:9200/login/" ,//url
+            data: $('#formSgin').serialize(),
+            success: function (result) {
+                console.log(result);//打印服务端返回的数据(调试用)
+                alert(result['status']);
+                if (result['status'] == "登录成功") {
+                    window.location.href = 'indexsigned.html'
+                }
+            },
+            error : function(a) {
+                alert(a['status']);
+            }
+        });
+    }
+</script>
+
+<script type="text/javascript">
+    function register() {
+        $.ajax({
+            //几个参数需要注意一下
+            type: "POST",//方法类型
+            dataType: "json",//预期服务器返回的数据类型
+            url: "http://47.101.198.54:9200/register/" ,//url
+            data: $('#formRester').serialize(),
+            success: function (result) {
+                console.log(result);//打印服务端返回的数据(调试用)
+                alert(result['status']);
+            },
+            error : function(a) {
+                alert(a);
+            }
+        });
+    }
+</script>
+<script async>window.onload=function(){var a=document.createElement('script'),b=document.getElementsByTagName('script')[0];a.type='text/javascript',a.async=!0,a.src='/sw-register.js?v='+Date.now(),b.parentNode.insertBefore(a,b)};</script></body></html>

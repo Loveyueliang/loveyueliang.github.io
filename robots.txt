@@ -8,4 +8,4 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://blog.52sifang.cn/baidusitemap.xml
+Sitemap: https://www.52sifang.cn/baidusitemap.xml

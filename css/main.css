@@ -186,7 +186,7 @@ th {
 body {
   position: relative;
   font-family: 'Lato', -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "STHeiti", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 2;
   color: #555;
   background: #fff;
@@ -203,7 +203,7 @@ body {
 }
 @media (min-width: 1600px) {
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 h1,
@@ -1283,7 +1283,7 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   color: #999;
   font-weight: bold;
   line-height: 1;
@@ -2040,7 +2040,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5778a3;
+  background: #81bbda;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2850,7 +2850,15 @@ hr {
   margin-top: 40px;
 }
 .header {
-  background: #44b78b;
+  background: #3c80a9;
+}
+.header::before {
+  background: #000 linear-gradient(to left, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55);
+  content: "";
+  height: 5px;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 .header-inner {
   padding: 25px 0 20px;
@@ -3040,7 +3048,7 @@ hr {
 }
 @media (max-width: 767px) {
   .posts-expand .post-body {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 .posts-expand .post-body img {
@@ -3066,7 +3074,7 @@ hr {
 }
 .post-button a {
   padding: 0;
-  font-size: 16px;
+  font-size: 14px;
   background: none;
   border: none;
   border-bottom: 2px solid #666;
@@ -3074,12 +3082,12 @@ hr {
 }
 @media (max-width: 767px) {
   .post-button a {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 @media (min-width: 1600px) {
   .post-button a {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 .post-button a:hover {
@@ -3490,7 +3498,7 @@ a:hover {
 }
 #days {
   display: block;
-  color: #24ffe0;
+  color: #6fd2fc;
   font-size: 13px;
   font-weight: bold;
   margin-top: 1px;
@@ -3706,7 +3714,7 @@ img.img-topic {
   width: 100%;
   min-height: 50px;
   color: #fff;
-  background: #44b78b;
+  background: #3c80a9;
   border-top-width: 3px;
   border-top-style: solid;
   border-top-color: #ffa880;
@@ -3782,6 +3790,9 @@ img.img-topic {
   .menu {
     text-align: center;
     box-shadow: 0px 5px 10px 0px rgba(25,80,55,0.5);
+  }
+  #menu > li {
+    float: left;
   }
   .site-nav {
     top: initial;
